@@ -1,0 +1,4 @@
+Burrito,1
+After Lunch Mints,1
+Chewy Bar,1
+TOTAL SALES: $8.35
